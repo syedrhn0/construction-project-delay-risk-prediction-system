@@ -1,0 +1,5 @@
+reason_id,reason_code,reason_description,reason_category
+1,"Approval Pending","Approval Pending",Administrative
+2,"Labour Shortage","Labour Shortage",Resource
+3,"Material Delay","Material Delay","Supply Chain"
+4,"Weather Impact","Weather Impact",External

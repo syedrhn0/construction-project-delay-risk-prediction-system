@@ -1,0 +1,8 @@
+contractor_name,total_projects,avg_delay_days,avg_risk_score,delayed_projects
+"Simplex Infrastructures",2,100.0,80.0,0
+"HCC Ltd",4,88.5,69.4,1
+"L&T Construction",3,69.0,66.7,0
+"Shapoorji Pallonji",4,55.0,62.8,1
+"Afcons Infrastructure",4,55.5,54.3,0
+"Tata Projects",7,56.4,50.9,2
+"IRB Infrastructure",4,52.3,45.4,1

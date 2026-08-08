@@ -1,0 +1,14 @@
+state,city,total_projects,avg_risk_score,avg_delay_days,high_risk_projects
+Delhi,"New Delhi",1,90.0,95.0,1
+Gujarat,Ahmedabad,3,76.7,99.3,3
+Karnataka,Bengaluru,2,70.3,109.0,1
+Maharashtra,Nagpur,1,68.0,46.0,1
+Maharashtra,Mumbai,1,64.5,70.0,1
+"Tamil Nadu",Chennai,2,59.0,40.5,1
+Rajasthan,Jaipur,2,58.3,86.5,1
+Maharashtra,Pune,3,58.2,64.0,1
+"Uttar Pradesh",Noida,4,57.1,64.3,2
+Telangana,Hyderabad,2,55.0,24.0,1
+"Tamil Nadu",Coimbatore,1,47.0,51.0,0
+Karnataka,Mysuru,1,46.0,48.0,0
+"Uttar Pradesh",Lucknow,5,42.0,46.0,1

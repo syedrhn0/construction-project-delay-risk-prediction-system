@@ -1,0 +1,29 @@
+project_id,project_name,project_type,client_type,state,city,start_date,planned_end_date,revised_end_date,contract_duration_days,project_value_cr,contractor_name,consultant_name,current_project_status
+1,Greenfield Residential Complex – Noida,Residential,Private,Uttar Pradesh,Noida,2022-04-12,2024-07-23,2024-08-04,833,489.57,L&T Construction,Lloyd Insulations,On Track
+2,Greenfield Residential Complex – Mumbai,Commercial,Government,Maharashtra,Mumbai,2022-04-22,2024-04-05,2024-06-14,714,555.46,HCC Ltd,Lloyd Insulations,On Track
+3,River Bridge Construction – Chennai,Residential,Government,Tamil Nadu,Chennai,2022-05-28,2024-08-04,2024-08-09,799,703.46,Tata Projects,TCE Consulting,Delayed
+4,Metro Rail Corridor Phase – Ahmedabad,Commercial,Government,Gujarat,Ahmedabad,2022-05-27,2024-03-14,2024-05-27,657,719.75,Tata Projects,TCE Consulting,On Track
+5,River Bridge Construction – Bengaluru,Metro,PSU,Karnataka,Bengaluru,2022-06-08,2024-02-03,2024-05-12,605,431.84,IRB Infrastructure,STUP Consultants,Delayed
+6,Urban Commercial Tower – Hyderabad,Residential,Private,Telangana,Hyderabad,2022-02-16,2024-06-22,2024-07-30,857,668.22,Shapoorji Pallonji,STUP Consultants,Delayed
+7,Urban Commercial Tower – Bengaluru,Highway,Government,Karnataka,Bengaluru,2022-05-12,2024-04-25,2024-08-22,714,627.64,L&T Construction,AECOM India,Critical
+8,Metro Rail Corridor Phase – Lucknow,Bridge,Private,Uttar Pradesh,Lucknow,2022-06-27,2024-05-06,2024-08-16,679,590.95,HCC Ltd,AECOM India,Delayed
+9,State Highway Expansion – Jaipur,Metro,Private,Rajasthan,Jaipur,2022-01-16,2024-06-08,2024-09-21,874,579.12,Simplex Infrastructures,STUP Consultants,Critical
+10,Urban Commercial Tower – Noida,Metro,Government,Uttar Pradesh,Noida,2022-04-29,2024-03-10,2024-05-12,681,146.03,HCC Ltd,TCE Consulting,On Track
+11,Greenfield Residential Complex – Coimbatore,Commercial,PSU,Tamil Nadu,Coimbatore,2022-04-11,2024-05-04,2024-06-24,754,695.37,Tata Projects,STUP Consultants,Critical
+12,River Bridge Construction – Hyderabad,Commercial,Government,Telangana,Hyderabad,2022-04-02,2024-07-29,2024-08-08,849,277.36,Tata Projects,Jacobs Engineering,On Track
+13,Greenfield Residential Complex – Jaipur,Commercial,PSU,Rajasthan,Jaipur,2022-03-09,2023-12-13,2024-02-19,644,493.56,IRB Infrastructure,TCE Consulting,On Track
+14,Metro Rail Corridor Phase – Pune,Bridge,PSU,Maharashtra,Pune,2022-07-19,2024-11-13,2025-01-03,848,521.41,Afcons Infrastructure,STUP Consultants,On Track
+15,Urban Commercial Tower – Chennai,Residential,PSU,Tamil Nadu,Chennai,2022-02-23,2024-02-18,2024-05-04,725,138.88,L&T Construction,Lloyd Insulations,On Track
+16,Greenfield Residential Complex – Mysuru,Commercial,Private,Karnataka,Mysuru,2022-06-07,2023-11-02,2023-12-20,513,246.38,Shapoorji Pallonji,TCE Consulting,Critical
+17,River Bridge Construction – Lucknow,Bridge,PSU,Uttar Pradesh,Lucknow,2022-02-01,2023-08-14,2023-10-14,559,429.27,Tata Projects,AECOM India,Critical
+18,Urban Commercial Tower – Lucknow,Metro,Government,Uttar Pradesh,Lucknow,2022-05-03,2024-09-03,2024-09-29,854,1145.1,IRB Infrastructure,TCE Consulting,On Track
+19,Greenfield Residential Complex – Nagpur,Highway,Private,Maharashtra,Nagpur,2022-03-18,2024-06-24,2024-08-09,829,1097.25,Shapoorji Pallonji,Jacobs Engineering,Critical
+20,Urban Commercial Tower – Noida,Commercial,PSU,Uttar Pradesh,Noida,2022-06-06,2024-11-10,2025-02-12,888,979.73,Tata Projects,Lloyd Insulations,Delayed
+21,River Bridge Construction – Noida,Highway,Government,Uttar Pradesh,Noida,2022-01-08,2023-10-13,2024-01-09,643,757.76,Shapoorji Pallonji,STUP Consultants,Critical
+22,Greenfield Residential Complex – Lucknow,Commercial,PSU,Uttar Pradesh,Lucknow,2022-01-21,2023-09-25,2023-10-20,612,458.27,Afcons Infrastructure,Lloyd Insulations,Critical
+23,Greenfield Residential Complex – Pune,Residential,PSU,Maharashtra,Pune,2022-06-17,2024-04-23,2024-08-01,676,876.87,Tata Projects,STUP Consultants,On Track
+24,River Bridge Construction – New Delhi,Bridge,PSU,Delhi,New Delhi,2022-01-23,2024-06-10,2024-09-13,869,1140.41,Simplex Infrastructures,Jacobs Engineering,On Track
+25,River Bridge Construction – Ahmedabad,Commercial,Private,Gujarat,Ahmedabad,2022-02-08,2024-04-20,2024-08-03,802,747.37,Afcons Infrastructure,TCE Consulting,On Track
+26,Greenfield Residential Complex – Ahmedabad,Metro,Private,Gujarat,Ahmedabad,2022-01-04,2024-05-24,2024-09-20,871,235.96,HCC Ltd,Jacobs Engineering,On Track
+27,Metro Rail Corridor Phase – Pune,Commercial,Private,Maharashtra,Pune,2022-02-24,2023-12-05,2024-01-15,649,370.49,Afcons Infrastructure,Jacobs Engineering,On Track
+28,Metro Rail Corridor Phase – Lucknow,Bridge,Private,Uttar Pradesh,Lucknow,2022-06-19,2024-08-25,2024-09-10,798,675.64,IRB Infrastructure,Lloyd Insulations,On Track

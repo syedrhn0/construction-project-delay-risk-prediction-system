@@ -1,0 +1,101 @@
+task_id,project_id,wbs_level,task_name,task_category,planned_start_date,planned_end_date,planned_duration_days,task_weight_pct,critical_flag,baseline_sequence_no
+10001,1,2,"Footing Reinforcement Fixing",Structural,2022-09-12,2022-09-30,18,1.58,Y,285
+10002,1,4,"Backfilling and Compaction",Civil,2024-03-10,2024-04-19,40,2.42,Y,453
+10003,1,3,"Internal Plastering",Finishing,2022-12-22,2023-01-10,19,0.41,Y,260
+10004,1,3,"Underground Drainage",Plumbing,2022-06-15,2022-07-20,35,1.95,Y,355
+10005,1,2,"Cable Pulling",Electrical,2023-09-14,2023-10-21,37,2.19,N,473
+10006,1,4,"Internal Plastering",Finishing,2023-07-14,2023-07-29,15,0.63,N,162
+10007,1,2,"Excavation for Foundations",Civil,2023-06-24,2023-07-05,11,2.11,Y,460
+10008,1,2,"Slab Shuttering and Pouring",Structural,2022-09-05,2022-09-28,23,2.91,Y,383
+10009,1,2,"Internal Road Works",Civil,2023-08-23,2023-09-09,17,0.74,N,264
+10010,1,3,"Water Supply Line Installation",Plumbing,2023-06-17,2023-07-06,19,1.16,N,10
+10011,1,1,"Panel Installation",Electrical,2023-07-25,2023-08-29,35,1.34,N,263
+10012,1,1,"Site Clearing and Grading",Civil,2022-12-02,2022-12-15,13,1.02,Y,464
+10013,1,4,"Slab Shuttering and Pouring",Structural,2024-05-24,2024-06-08,15,2.59,N,208
+10014,1,1,"Beam Reinforcement Installation",Structural,2024-03-29,2024-04-25,27,1.05,Y,218
+10015,1,3,"Backfilling and Compaction",Civil,2022-04-29,2022-05-11,12,0.53,Y,35
+10016,1,3,"Conduit Laying",Electrical,2023-07-20,2023-07-27,7,2.98,N,475
+10017,1,2,"Panel Installation",Electrical,2022-08-22,2022-08-31,9,2.83,Y,135
+10018,1,3,"Excavation for Foundations",Civil,2022-11-04,2022-11-30,26,1.73,Y,149
+10019,1,1,"Underground Drainage",Plumbing,2023-01-14,2023-02-12,29,2.99,Y,8
+10020,1,2,"Excavation for Foundations",Civil,2023-09-20,2023-10-27,37,2.82,Y,338
+10021,1,3,"Water Supply Line Installation",Plumbing,2023-10-23,2023-11-24,32,2.16,Y,176
+10022,1,1,"Column Casting",Structural,2023-05-31,2023-06-29,29,2.56,Y,37
+10023,1,1,"Cable Pulling",Electrical,2022-09-26,2022-10-06,10,2.10,N,446
+10024,1,3,"Painting and Polishing",Finishing,2023-01-25,2023-02-16,22,0.42,Y,81
+10025,1,3,"Cable Pulling",Electrical,2022-04-15,2022-05-08,23,2.90,N,126
+10026,1,2,"Backfilling and Compaction",Civil,2022-11-21,2022-12-20,29,0.30,N,43
+10027,1,2,"Water Supply Line Installation",Plumbing,2023-09-08,2023-09-27,19,1.66,Y,47
+10028,1,1,"Conduit Laying",Electrical,2022-09-06,2022-10-08,32,1.36,N,156
+10029,1,2,"Footing Reinforcement Fixing",Structural,2023-12-02,2024-01-11,40,2.08,N,392
+10030,1,3,"Panel Installation",Electrical,2023-08-31,2023-09-16,16,2.26,Y,23
+10031,1,2,"Painting and Polishing",Finishing,2023-06-25,2023-08-03,39,2.76,Y,424
+10032,1,1,"Painting and Polishing",Finishing,2024-03-11,2024-04-01,21,0.38,Y,327
+10033,1,1,"Conduit Laying",Electrical,2023-05-02,2023-06-06,35,1.99,Y,251
+10034,1,1,"Conduit Laying",Electrical,2023-07-23,2023-08-03,11,2.08,Y,382
+10035,1,2,"Water Supply Line Installation",Plumbing,2022-06-27,2022-07-20,23,2.27,Y,119
+10036,1,4,"Water Supply Line Installation",Plumbing,2023-05-08,2023-05-19,11,2.76,N,393
+10037,1,3,"Excavation for Foundations",Civil,2022-06-30,2022-07-16,16,0.99,N,319
+10038,1,1,"Internal Plastering",Finishing,2022-04-24,2022-05-31,37,1.61,Y,355
+10039,1,3,"Beam Reinforcement Installation",Structural,2023-02-03,2023-03-15,40,1.55,N,393
+10040,1,4,"Excavation for Foundations",Civil,2023-02-25,2023-03-09,12,0.35,N,40
+10041,1,2,"Floor Tiling",Finishing,2023-01-12,2023-02-12,31,2.77,Y,39
+10042,1,3,"Internal Plastering",Finishing,2022-09-04,2022-10-14,40,2.87,Y,309
+10043,1,2,"Floor Tiling",Finishing,2022-08-05,2022-09-04,30,1.64,N,202
+10044,1,4,"Excavation for Foundations",Civil,2022-04-15,2022-05-23,38,1.39,Y,214
+10045,1,3,"Cable Pulling",Electrical,2023-03-01,2023-03-15,14,0.30,N,430
+10046,1,3,"Underground Drainage",Plumbing,2022-10-29,2022-11-05,7,0.98,Y,202
+10047,1,3,"Underground Drainage",Plumbing,2023-04-16,2023-05-20,34,2.61,N,53
+10048,1,2,"Backfilling and Compaction",Civil,2024-01-22,2024-02-07,16,2.92,N,262
+10049,1,1,"Conduit Laying",Electrical,2023-04-29,2023-06-02,34,2.49,N,468
+10050,1,1,"Painting and Polishing",Finishing,2022-11-06,2022-11-18,12,2.82,N,231
+10051,1,4,"Internal Plastering",Finishing,2024-01-31,2024-02-25,25,0.43,Y,88
+10052,1,3,"Water Supply Line Installation",Plumbing,2023-03-29,2023-04-23,25,0.99,N,208
+10053,1,1,"Slab Shuttering and Pouring",Structural,2023-08-19,2023-09-20,32,0.75,Y,39
+10054,1,4,"Beam Reinforcement Installation",Structural,2023-10-27,2023-11-17,21,2.75,N,219
+10055,1,2,"Column Casting",Structural,2022-12-17,2022-12-29,12,1.22,Y,164
+10056,1,1,"Slab Shuttering and Pouring",Structural,2023-01-01,2023-01-20,19,2.32,N,197
+10057,1,3,"Underground Drainage",Plumbing,2023-05-02,2023-05-26,24,2.33,N,143
+10058,1,2,"Floor Tiling",Finishing,2022-08-18,2022-09-26,39,0.55,Y,197
+10059,1,1,"Water Supply Line Installation",Plumbing,2023-06-28,2023-07-24,26,0.64,N,364
+10060,1,4,"Water Supply Line Installation",Plumbing,2022-04-12,2022-04-23,11,2.81,N,498
+10061,1,2,"Underground Drainage",Plumbing,2022-08-01,2022-08-22,21,0.71,Y,483
+10062,1,1,"Underground Drainage",Plumbing,2023-10-28,2023-11-06,9,2.41,Y,292
+10063,1,4,"Backfilling and Compaction",Civil,2022-08-21,2022-09-13,23,2.19,Y,51
+10064,1,4,"Backfilling and Compaction",Civil,2023-10-01,2023-10-20,19,1.00,Y,6
+10065,1,3,"Floor Tiling",Finishing,2023-07-27,2023-08-20,24,2.04,Y,244
+10066,1,1,"Internal Plastering",Finishing,2023-10-24,2023-11-15,22,2.89,N,29
+10067,1,1,"Excavation for Foundations",Civil,2023-09-04,2023-10-07,33,0.99,N,474
+10068,1,3,"Conduit Laying",Electrical,2023-08-29,2023-09-07,9,2.24,N,350
+10069,1,1,"Underground Drainage",Plumbing,2022-04-18,2022-05-13,25,0.85,Y,160
+10070,1,3,"Column Casting",Structural,2023-08-01,2023-08-22,21,2.35,N,56
+10071,1,2,"Floor Tiling",Finishing,2023-12-27,2024-01-14,18,1.61,Y,486
+10072,1,2,"Internal Plastering",Finishing,2023-05-19,2023-05-29,10,0.36,Y,213
+10073,1,4,"Site Clearing and Grading",Civil,2022-10-17,2022-11-18,32,2.73,N,376
+10074,1,2,"Site Clearing and Grading",Civil,2022-09-28,2022-10-26,28,0.80,N,17
+10075,1,3,"Panel Installation",Electrical,2024-04-23,2024-05-24,31,2.96,N,87
+10076,1,1,"Site Clearing and Grading",Civil,2022-07-01,2022-07-25,24,1.25,Y,288
+10077,1,4,"Beam Reinforcement Installation",Structural,2023-04-12,2023-05-08,26,0.54,N,101
+10078,1,3,"Panel Installation",Electrical,2023-07-13,2023-08-01,19,1.28,N,16
+10079,1,1,"Underground Drainage",Plumbing,2024-01-12,2024-02-13,32,1.31,N,33
+10080,1,3,"Backfilling and Compaction",Civil,2022-10-28,2022-11-08,11,1.28,N,491
+10081,1,3,"Internal Plastering",Finishing,2023-01-05,2023-02-01,27,1.10,Y,13
+10082,1,4,"Footing Reinforcement Fixing",Structural,2023-08-11,2023-09-16,36,2.43,N,418
+10083,1,1,"Underground Drainage",Plumbing,2023-09-02,2023-09-20,18,2.47,N,422
+10084,1,4,"Column Casting",Structural,2023-03-13,2023-04-09,27,1.28,Y,263
+10085,1,2,"Beam Reinforcement Installation",Structural,2024-05-21,2024-06-07,17,1.40,Y,247
+10086,1,4,"Painting and Polishing",Finishing,2023-03-11,2023-03-28,17,2.69,Y,136
+10087,1,4,"Internal Plastering",Finishing,2022-11-11,2022-11-24,13,1.65,N,89
+10088,1,2,"Column Casting",Structural,2023-06-12,2023-07-18,36,2.32,Y,400
+10089,1,3,"Cable Pulling",Electrical,2023-01-23,2023-02-16,24,0.99,N,102
+10090,1,2,"Underground Drainage",Plumbing,2022-10-19,2022-11-10,22,0.71,Y,168
+10091,1,2,"Internal Road Works",Civil,2022-12-25,2023-01-16,22,2.05,Y,335
+10092,1,4,"Underground Drainage",Plumbing,2022-07-25,2022-08-01,7,2.68,Y,431
+10093,1,2,"Water Supply Line Installation",Plumbing,2022-05-23,2022-06-17,25,0.62,Y,308
+10094,1,2,"Internal Plastering",Finishing,2022-06-27,2022-07-27,30,1.51,N,397
+10095,1,2,"Site Clearing and Grading",Civil,2024-01-24,2024-02-22,29,0.40,N,73
+10096,1,2,"Excavation for Foundations",Civil,2022-12-29,2023-01-07,9,2.50,N,210
+10097,1,1,"Conduit Laying",Electrical,2024-01-07,2024-02-02,26,0.85,N,281
+10098,1,4,"Underground Drainage",Plumbing,2023-06-03,2023-06-16,13,2.09,Y,328
+10099,1,4,"Internal Plastering",Finishing,2024-02-09,2024-02-26,17,2.18,N,146
+10100,1,3,"Cable Pulling",Electrical,2022-06-03,2022-06-29,26,1.42,Y,443
