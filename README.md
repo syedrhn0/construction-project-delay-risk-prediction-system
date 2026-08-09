@@ -19,6 +19,7 @@ The system covers the full pipeline: raw CSV data → MySQL preprocessing → st
 ## Dashboard Preview
 
 ![Dashboard Preview](screenshots/Executive Overview.jpg)
+
 ---
 
 ## 📊 Dataset
