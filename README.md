@@ -18,10 +18,7 @@ The system covers the full pipeline: raw CSV data → MySQL preprocessing → st
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/Executive Overview.jpg)
-
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-
+![Dashboard Preview](screenshots/Executive Overview.jpg)
 ---
 
 ## 📊 Dataset
